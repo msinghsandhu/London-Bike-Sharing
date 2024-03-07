@@ -1,4 +1,4 @@
-# London Bike Sharing Using Python
+# London Bike Sharing Using Power BI
 
 ## Problem Statement:
 The London bike sharing dataset presents a rich source of information regarding bike rental patterns within the city. However, there exist several challenges and opportunities within this dataset that necessitate further exploration and analysis. One significant problem to address is the optimization of bike sharing services to improve operational efficiency and customer satisfaction. This involves understanding the factors influencing bike rental demand, such as weather conditions, time of day, day of the week, and special events. Additionally, there is a need to identify potential bottlenecks in bike availability and distribution across docking stations, particularly during peak hours and high-demand periods. By addressing these challenges, stakeholders can enhance the overall performance and accessibility of bike sharing systems in London, leading to a more sustainable and convenient transportation option for residents and visitors alike.
