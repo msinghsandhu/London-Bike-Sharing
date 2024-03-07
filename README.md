@@ -24,7 +24,7 @@ The first type of dashboard, "Key Insights," was created to provide an overview 
 The dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest.
 
 ## Expected Outcome:
-By implementing the above solution approach, AtliQ hardware expects to achieve the following outcomes:
+By implementing the above solution approach, Bike companies expect to achieve the following outcomes:
 
    * Enhanced Data Analysis: Utilizing Power BI facilitates real-time or near-real-time analysis of bike share trends, enhancing the efficiency of data exploration and interpretation. This advanced analytics solution empowers users to delve deeper into the dataset, enabling more thorough insights and comprehension.
 
